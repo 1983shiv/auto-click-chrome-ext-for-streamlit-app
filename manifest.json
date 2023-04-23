@@ -2,6 +2,9 @@
   "manifest_version": 3,
   "name": "Auto-click",
   "version": "1.0",
+  "icons": {
+    "32": "icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["http://localhost:8501/"],

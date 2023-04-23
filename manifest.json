@@ -2,7 +2,6 @@
   "manifest_version": 3,
   "name": "Auto-click",
   "version": "1.0",
-  "Author": "Shiv Srivastava",
   "content_scripts": [
     {
       "matches": ["http://localhost:8501/"],
